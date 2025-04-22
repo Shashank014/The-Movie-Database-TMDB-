@@ -10,24 +10,8 @@ The objective of this project is to extract movie-related data from The Movie Da
 
 🔧 Pre-requisites
 
-Tools
+Tools - Jupyter Notebook, Google Colab, Microsoft Visual Studio (optional)
 
-Jupyter Notebook
+Programming Languages - Python, HTML (for understanding page structure)
 
-Google Colab
-
-Microsoft Visual Studio (optional)
-
-Programming Languages
-
-Python
-
-HTML (for understanding page structure)
-
-Python Libraries
-
-requests
-
-BeautifulSoup
-
-pandas
+Python Libraries - requests, BeautifulSoup, pandas
